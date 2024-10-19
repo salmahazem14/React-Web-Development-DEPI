@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexcent</title>
+    <head>
+<style>
+    .firstBlock{
+        background-color: rgb(232, 230, 230);
+
+    }
+    .row1{
+       display:flex;
+       justify-content: space-around;
+       align-items: center;
+
+    }
+ 
+    .nav
+    {
+        display:flex;
+        padding: 0;
+    }
+    .nav li
+    {
+        list-style-type: none;
+        margin-right: 40px; 
+    }
+
+    .p1
+    {
+        font-size: 50px;
+        color:rgb(62, 61, 61)
+    }
+    .p2
+    {
+        font-size: 50px;
+        color:rgb(28, 170, 28)
+    }
+
+    .row2
+    {
+        display:flex;
+        margin-left: 150px; 
+        line-height: 0.2;
+    
+    }
+  
+    
+    .registerButton
+    {
+        margin-top: 20px;
+        margin-bottom: 120px; 
+        line-height: 1.8;
+        background-color: rgb(28, 170, 28);
+        color: white;
+
+    }
+    .signUpButton
+    {
+       
+        background-color: rgb(28, 170, 28);
+        color: white;
+
+    }
+    .loginButton
+    {
+        border:none;
+        color: rgb(28, 170, 28);
+        background-color: rgb(232, 230, 230);
+    }
+    .title img{
+      size:30px;
+    }
+
+    .secondBlock{
+       text-align: center;
+       line-height: 0.4;
+    }
+    
+    .p4{
+        font-size:30px;
+        font-style: bold;
+    }
+    .thirdBlock{
+        text-align: center;
+        line-height: 0.4;
+    }
+    .p5{
+        font-size:30px;
+        font-style: bold;
+       
+    }
+    .row5{
+        display: flex;
+    }
+    .p6{
+
+        font-size:30px;
+        margin-top: 150px;
+        font-style: bold;
+       
+    }
+    .learnMoreButton{
+      
+        background-color: rgb(28, 170, 28);
+        color: white;
+        font-size: 15px;
+    }
+    .fifthBlock{
+        display:flex;
+        line-height: 0.4;
+        background-color: rgb(232, 230, 230);
+    }
+
+    .p8{
+        line-height: 0.4;
+    }
+    .asideRight{
+        margin-left: 200px;
+    }
+
+     .asideRightx2{
+        margin-left: 200px;
+     }
+     .p9{
+        font-size: 25px;
+        line-height: 0.2;
+     }
+ 
+   .asideRight1{
+    margin-left: 350px;
+
+   }
+   .row7{
+    display:flex;
+    margin-left: 200px;
+   }
+   .asideRight3{
+    margin-left: 200px;
+   }
+   .sixthBlock{
+    background-color: rgb(232, 230, 230);
+}
+    .seventhBlock{
+        background-color: rgb(232, 230, 230);
+        text-align: center;
+    }
+    .p17{
+        font-size: 40px;
+    }
+    
+    .footer{
+        margin-top: 10px;
+        color:white;
+        background-color:rgb(32, 35, 46);
+        display:flex;
+    }
+    .footer li{
+        list-style-type: none;
+        margin-bottom: 10px;
+    }
+    .asideRight4{
+        margin-left: 650px;
+    }
+</style>
+    </head>
+
+    <body>
+            <section class ="container">
+                <section class="firstBlock">
+                    <section class="row1">
+                        <section>
+                            <header>Nexcent</header>
+                        </section>
+                       
+                        <nav>
+                            <ul class="nav">
+                                <li>Home</li>
+                                <li>Service</li>
+                                <li>Feature</li>
+                                <li>Product</li>
+                                <li>Testimonial</li>
+                                <li>FAQ</li>
+                            </ul>
+                        </nav>
+            
+                        <section>
+                            <button class="loginButton">Login</button>
+                            <button class="signUpButton">Sign up</button>
+                        </section>
+                        </section>  <!-- row1 -->
+    
+    
+                       <section class="row2">
+                        <section class="row21">
+                            <p class="p1">Lessons from insights </p>
+                            <p class="p2">From 8 years</p>
+                            <p class="p3">Where to grow your business as a photographer : site or social media?</p>
+                            <button class="registerButton">Register</button>
+                        </section>
+                        <aside class="asideRight1">
+                            <img src="pic1.jpg" alt="Pic is here">
+                        </aside>
+                        </section> <!-- row2 -->
+                        
+                          
+                       </section>   <!-- first blockt -->
+    
+                   
+    
+                    <section class ="secondBlock">
+                        <p class="p4">Our clients</p>
+                        <p> We have been working with some Fortune 500+ clients</p>
+                        <img src="pic22.jpg">
+                    </section>
+
+                    <section class="thirdBlock">
+                        <p class="p5">Manage your entire community in a single system</p>
+                        <p>Who is Nexcent suitable for?</p>
+                        <img src="pic3.jpg" alt="Pic is here">
+
+                    </section>
+              
+                    <section class ="fourthBlock">
+                        <section class ="row5">
+                            <img src="pic4.jpg" alt="Pic is here">
+                            <aside>
+                                <p class="p6">The unseen of spending three years at Pixelgrade</p>
+                                <p class="p7">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                                    Sed sit amet justo ipsum. 
+                                    Sed accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed
+                                    porta. Nullam mattis tristique iaculis. 
+                                    Nullam pulvinar sit amet risus pretium auctor. 
+                                    Etiam quis massa pulvinar, aliquam quam vitae, tempus sem. 
+                                    Donec elementum pulvinar odio
+                                </p>
+                                <button class="learnMoreButton" >Learn more</button>
+                            </aside>
+                        </section>
+                    </section>
+
+
+                <section class="fifthBlock">
+                    <section class="row6">
+                    <p class="p1">Helping a local</p>
+                    <p class="p2">business reinvent itself</p>
+                    <p class="p8">we reached here with our hard work and dedication</p>
+                    </section>
+                    <aside class="asideRight">
+                        <p class="p9">2,245,341</p>
+                        <p class="p10">Members</p>
+                        <p class="p9">828,867</p>
+                        <p class="p10">Event Bookings</p>
+                    </aside>
+                    <aside class="asideRightx2">
+                        <p class="p9">46,328</p>
+                        <p class="p10">Clubs</p>
+                        <p class="p9">1,926,436</p>
+                        <p class="p10">Payments</p>
+                    </aside>
+                </section>
+    
+                <section class ="fourthBlock">
+                    <section class ="row5">
+                        <img src="pic5.jpg" alt="Pic is here">
+                        <aside>
+                            <p class="p6">How to design your site footer like we did</p>
+                            <p class="p7">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                                Sed sit amet justo ipsum. 
+                                Sed accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed
+                                porta. Nullam mattis tristique iaculis. 
+                                Nullam pulvinar sit amet risus pretium auctor. 
+                                Etiam quis massa pulvinar, aliquam quam vitae, tempus sem. 
+                                Donec elementum pulvinar odio
+                            </p>
+                            <button class="learnMoreButton" >Learn more</button>
+                        </aside>
+                    </section>
+                </section>
+
+
+                <section class ="sixthBlock">
+                    <section class ="row7">
+                        <img src="pic6.jpg" alt="Pic is here">
+                        <aside class="asideRight3">
+                            <p class="p16">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                                Sed sit amet justo ipsum. 
+                                Sed accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed
+                                porta. Nullam mattis tristique iaculis. 
+                                Nullam pulvinar sit amet risus pretium auctor. 
+                                Etiam quis massa pulvinar, aliquam quam vitae, tempus sem. 
+                                Donec elementum pulvinar odio
+                            </p>
+                            <button class="learnMoreButton" >Learn more</button>
+                        </aside>
+                    </section>
+                </section>
+
+                <section class="thirdBlock">
+                    <p class="p5">Caring is the new market</p>
+                    <p>Who is Nexcent suitable for?</p>
+                    <img src="pic7.jpg" alt="Pic is here">
+
+                </section>
+
+                <section class="seventhBlock">
+                    <p class="p17">Pellentesque suscipit fringilla libero eu.</p>
+                    <button class="learnMoreButton">Get a demo -></button>
+                </section>
+          
+
+            <footer class="footer">
+                <section>
+                <p>Nexcent</p>
+                <p>Copyrights 2020 Nexcent Rd.</p>    
+                <p>All rights reserved</p> 
+                </section>
+                
+                <aside class="asideRight4">
+                    <p class="p18">Company</p>
+                    <ul class="footerlist">
+                        <li>About us</li>
+                        <li>Bing</li>
+                        <li>Contact us</li>
+                        <li>Pricing</li>
+                        <li>Testimonials</li>
+                    </ul>
+                </aside>
+
+                <aside>
+                    <p>Support</p>
+                    <ul class="footerlist">
+                        <li>Help center</li>
+                        <li>Terms of service</li>
+                        <li>Legal</li>
+                        <li>Privacy policy</li>
+                        <li>Status</li>
+                    </ul>
+                </aside>
+
+                <aside>
+                    <p>Stay up to date</p>
+                    <form action="/submit-form" method="post">
+                    <input type="email" id="email" name="email" required><br><br>
+                </aside>
+
+            </footer>
+            </section>
+            
+        </main>
+       
+    
+</html>

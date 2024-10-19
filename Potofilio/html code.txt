@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salma Abdelwahed's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Salma Abdelwahed</h1>
+        <p>Email: <a href="mailto:salmahazem1473@gmail.com">salmahazem1473@gmail.com</a></p>
+        <p>Phone: +201060590562</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/salma-abdelwahed-a82531266/" target="_blank">Salma Abdelwahed</a></p>
+    </header>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p>Undergrad at Faculty of Computers and Artificial Intelligence, Cairo University</p>
+        <p>Majoring in Software Engineering</p>
+        <p>Current GPA: 3.29/4</p>
+        <p>Expected graduation year: 2025</p>
+        <p>High School American Diploma</p>
+        <p>Al-Oruba International School, Riyadh</p>
+        <p>Graduated with a GPA: 4/4</p>
+    </section>
+
+    <section id="certificates">
+        <h2>Certificates</h2>
+        <ul>
+            <li>Microsoft Azure Data Fundamentals DP-900 certification</li>
+            <li>Participation certificate: RedHat Administration 1</li>
+            <li>Red Hat Application Development I: Programming in Java EE 7.0</li>
+            <li>Currently pursuing: React Web Development at Digital Egypt Pioneers Initiative, Ministry of Communications and Information Technology</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Academic Projects</h2>
+        <ul>
+            <li>
+                <strong>YEVA app</strong> - Course: Human Computer Interaction
+                <p>Created an interactive prototype utilizing Adobe XD to demonstrate functionality and user flow.</p>
+            </li>
+            <li>
+                <strong>Trello Backend</strong> - Course: Advanced Software Tools
+                <p>Developed the Trello backend which included features like creating an account, creating board, creating lists, inviting users on boards using webservices and API using RESTful API and tested it on postman.</p>
+            </li>
+            <li>
+                <strong>Orders and Notifications Management module</strong> - Course: Software Design and Architecture
+                <p>Developed webservices and API using RESTful API and tested it on postman.</p>
+            </li>
+            <li>
+                <strong>InstaPay Module</strong> - Course: Software Design and Architecture
+                <p>Developed a module that transfers money through bank account or another InstaPay account and pays utility bills using Java.</p>
+            </li>
+            <li>
+                <strong>CPU Schedulers Simulator</strong> - Course: Operating System
+                <p>Developed a module for managing concurrent processes showing different scheduling and clearly visualizing it within graphical user interface (GUI).</p>
+            </li>
+            <li>
+                <strong>Bank System Database</strong> - Course: Database-1
+                <p>Created a robust banking system with features like user sign-up, profile updates, and administrative functions. Implemented customer and loan management, utilizing Conceptual and Physical ERDs. Developed the system using a Software Application and integrated a database on MS SQL Server.</p>
+            </li>
+        </ul>
+    </section>
+
+    <section id="employment">
+        <h2>Employment</h2>
+        <p>Participated in the USAID Scholarships at Newton Education Services</p>
+    </section>
+
+    <section id="activities">
+        <h2>Extra-Curricular Activities</h2>
+        <p>Delegate in Model United Nations Conference (MUN)</p>
+        <p>Participated in United Nations Development Program (UNDP) committee and represented Saudi Arabia. Engaged in diplomatic negotiations and collaborated with other delegates from different nationalities to draft and pass resolutions.</p>
+        <p>Member at the Academics Committee</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Fluent English</li>
+            <li>Very good C++ skills</li>
+            <li>Very good Java skills</li>
+            <li>Good selenium testing skills</li>
+            <li>Good Junit testing</li>
+            <li>Good MySQL skills</li>
+            <li>Good Python skills</li>
+            <li>Very good Microsoft Excel skills</li>
+            <li>Good Microsoft Project skills</li>
+            <li>Excellent Microsoft PowerPoint skills</li>
+            <li>Excellent Microsoft Word skills</li>
+        </ul>
+    </section>
+
+    <section id="qualities">
+        <h2>Qualities</h2>
+        <ul>
+            <li>Ability to adjust and thrive in changing environments</li>
+            <li>Strong communication skills</li>
+            <li>Strong ability to manage time effectively</li>
+            <li>Good problem-solving skills</li>
+            <li>Strong team-oriented mindset with a commitment to achieving shared goals and objectives</li>
+            <li>Attention to detail</li>
+        </ul>
+    </section>
+</body>
+</html>
